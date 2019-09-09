@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/web/home_question.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/web/home_dashboard.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/DeleteTitleServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/web/home_title.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/DAO/TitleDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/AddQuestionServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/QestionServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/DAO/AccountDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/SignUpServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/web/home_before.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/AddTitleServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/web/common/sidebar.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/DeleteQuestion.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/home.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/DAO/QuestionDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WEB_PROJECT/src/java/controller/TitleServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
